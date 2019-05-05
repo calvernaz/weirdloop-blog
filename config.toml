@@ -12,9 +12,15 @@ theme = "hugo-coder-portfolio"
   keywords = "blog,developer,personal" # Site keywords.
   avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
   
-  footercontent = "Enter a text here." # Add footer content
-  fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-  fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+  hireMe = true
+  hireMeStatus = "Unavailable" # Unavailable
+
+  hideCredits = true
+  hideCopyright = true
+
+  #footercontent = "Hire me!" # Add footer content
+  #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+  #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
 # Social links
 [[params.social]]
@@ -32,11 +38,11 @@ theme = "hugo-coder-portfolio"
 
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "posts"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "about"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "posts"
+#[[menu.main]]
+#    name = "About"
+#    weight = 2
+#    url = "about"
