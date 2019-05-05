@@ -1,0 +1,15 @@
+baseURL = "https://weirdloop.org"
+languageCode = "en-us"
+title = "Cesar Alvernaz"
+
+theme = "hugo-coder-portfolio"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "posts"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about"
