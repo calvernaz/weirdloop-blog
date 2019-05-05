@@ -13,7 +13,7 @@ theme = "hugo-coder-portfolio"
   avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
   
   hireMe = true
-  hireMeStatus = "Unavailable" # Unavailable
+  hireMeStatus = "Available" # Unavailable
 
   hideCredits = true
   hideCopyright = true
